@@ -5,7 +5,7 @@ Brotherhackthon 2022 Scaner Near Me
 ** You have to have paid apple developer account to make this app working. **
 
 
-#Plugings
+# Plugins
 ```
   share_plus: ^4.0.5
   wifi_connector: ^2.0.0
@@ -16,6 +16,6 @@ Brotherhackthon 2022 Scaner Near Me
   
   ## Additional Featues to be added
   #### Google maps API
-  #### Xcode feature:
+  #### Xcode features:
   ###### hotspot
   ###### wifi Info
